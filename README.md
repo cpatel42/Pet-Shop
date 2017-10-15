@@ -1,2 +1,2 @@
 # Pet-Shop-assignment
-A small project which helps in making CSS properties more flexible using SASS.
+SASS and LESS are used to implement CSS in a more dynamic way. Usually we write a lot of repetitive styling code. SASS (as well as LESS) aim to reduce that issue.
